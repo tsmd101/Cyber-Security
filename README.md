@@ -25,9 +25,13 @@ Versions:
 Sources:
 
 [Link 1] Reference: https://wpvulndb.com/vulnerabilities/8133
+
 [Link 2] Reference: https://core.trac.wordpress.org/changeset/33549
+
 [Link 3] Reference: https://blog.sucuri.net/2015/08/persistent-xss-vulnerability-in-wordpress-explained.html
+
 [Link 4] Reference: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5734
+
 GIF: https://imgur.com/a/uaj7O
 
 Vulnerability 2 - Authenticated Cross-Site Scripting (XSS)
@@ -48,9 +52,13 @@ Versions:
 Sources:
 
 [Link 1] Reference: https://wpvulndb.com/vulnerabilities/8358
+
 [Link 2] Reference: https://wordpress.org/news/2016/01/wordpress-4-4-1-security-and-maintenance-release/
+
 [Link 3] Reference: https://github.com/WordPress/WordPress/commit/7ab65139c6838910426567849c7abed723932b87
+
 [Link 4] Reference: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-1564
+
 GIF: https://imgur.com/a/oHP7b
 
 Vulnerability 3 - Pupload Same Origin Method Execution (SOME)
@@ -77,9 +85,15 @@ Versions:
 Sources:
 
 [Link 1] Reference: https://wpvulndb.com/vulnerabilities/8489
+
 [Link 2] Reference: https://wordpress.org/news/2016/05/wordpress-4-5-2/
+
 [Link 3] Reference: https://github.com/WordPress/WordPress/commit/c33e975f46a18f5ad611cf7e7c24398948cecef8
+
 [Link 4] Reference: https://gist.github.com/cure53/09a81530a44f6b8173f545accc9ed07e
+
 [Link 5] Reference: http://avlidienbrunn.com/wp_some_loader.php
+
 [Link 6] Reference: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4566
+
 GIF: https://imgur.com/a/7gK3e
