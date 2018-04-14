@@ -2,7 +2,7 @@
 
 Time spent: 8 hours spent in total
 
-Objective: Search, Retrive, process, recreate, and document 3 vulnerability on this version of WordPress
+Objective: Search, Retrieve, Process, Recreate, and document 3 vulnerability on this version of WordPress
 
 Version of WordPress Tested: 4.2
 
