@@ -1,4 +1,4 @@
-# Cyber-Security-Week7
+# CyberSecurity-Week7
 
 Time spent: 8 hours spent in total
 
